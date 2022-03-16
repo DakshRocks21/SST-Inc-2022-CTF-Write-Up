@@ -1,5 +1,5 @@
 
-# Extensions
+# kidRSA
 
 ## Description
 
@@ -13,7 +13,8 @@ Hmmm, is this a part of the RSAF in Singapore?
 Whats the value of n to the nearest integer? `FLAG{number}`
 
 ## Solution
-Basic Math, can use Python or calculator 
+
+Basic Math, can use Python or calculator
 
 - M = a* b-1 = 34
 - e = a1* M + a = 107

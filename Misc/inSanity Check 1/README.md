@@ -1,12 +1,8 @@
-# Extensions
+# inSanity Check 2
 
 ## Description
 
 > hm.. `FLAG{I-W0ND3R-Wl-lY}`
-
-## Files
-
-- flag.txt
 
 ## Solution
 

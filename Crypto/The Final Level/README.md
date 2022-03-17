@@ -10,7 +10,7 @@ Send help this is very large. Pls get me the flag
 - Practically imposible.
 - Flag encrypted 69 times
 
-PM @DakshRocks21 or @Ravin062 on Telegram if you want the entire list... However here is arnd half of the list
+PM @DakshRocks21 or @Ravin062 on Telegram if you want the entire list... However here is arnd half of the list <br/>
 [Rest of the cryptography stuff.txt](https://github.com/DakshRocks21/Write-Ups/files/8281454/Rest.of.the.cryptography.stuff.txt)
 
 

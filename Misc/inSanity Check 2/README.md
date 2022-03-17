@@ -8,6 +8,6 @@ Video: [https://youtu.be/ycAkqw-7FBU](https://youtu.be/ycAkqw-7FBU)
 
 ## Solution
 
-Open the Trascript and combine the myraid of letters provided
+Open the Trascript (also the subtitles) and combine the myraid of letters provided
 
 `FLAG{Y35_BUT_N0}`
